@@ -3,8 +3,8 @@ body {
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
 :root{
-  --text-color: #000000;
-  --card-front-color: #144480;
+  --text-color: #ffffff;
+  --card-front-color: #51BBA9;
   --card-back-color: #51BBA9;
 }
 
@@ -49,7 +49,7 @@ body {
   font-weight: 700;
 }
 footer {
-  background-color: black;
+  background-color: rgb(82, 235, 255);
   color: white;
   position: fixed;
   bottom: 0;
